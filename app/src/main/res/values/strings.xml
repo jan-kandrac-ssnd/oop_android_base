@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">OOPCore</string>
+    <string name="landing_item_exceptions">Výnimky</string>
+    <string name="landing_item_exceptions_description">Alebo ako ošetriť, či vyvolať pád aplikácie</string>
+    <string name="landing_item_hof">Funkcie vyššieho rádu</string>
+    <string name="landing_item_hof_description">Alebo ako poslať funkciu ako parameter funkcie</string>
 </resources>
